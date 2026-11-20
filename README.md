@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-Search-Arch@Bytedance
-
-LLM Pupil
+LLM/AIGC Inference
 
 <!--
 **linfann/linfann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
